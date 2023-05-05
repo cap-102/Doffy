@@ -1,4 +1,4 @@
-![Alt text](img/previem/2.png "DOFFY")
+![Alt text](2.png "DOFFY")
 ## Contents:
 - ### [Description](https://github.com/Caportabow/Doffy#description)
 - ### [Download](https://github.com/Caportabow/Doffy#download)
