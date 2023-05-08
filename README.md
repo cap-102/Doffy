@@ -1,11 +1,13 @@
-![Alt text](2.png "DOFFY")
+![Alt text](1.png "DOFFY")
 ## Contents:
 - ### [Description](https://github.com/Caportabow/Doffy#description)
 - ### [Download](https://github.com/Caportabow/Doffy#download)
 - ### [Credits](https://github.com/Caportabow/Doffy#credits)
 ## Download
-- ### [Github](https://github.com/Caportabow/Doffy/releases)
-- ### [Uptodown]()
+<a href='https://doffy.en.uptodown.com/windows' title='Download Doffy' >
+  <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download Doffy'>
+</a>
+
 ## Description:
 DoffyAI is a cutting-edge artificial intelligence software that utilizes the latest in machine learning and natural language processing to provide a unique and personalized experience for its users. Based on the GPT-4 architecture, DoffyAI is capable of generating high-quality text that is virtually indistinguishable from human writing. Its advanced algorithms also enable it to generate realistic and visually stunning images on demand, making it an ideal tool for artists and designers.
 One of the standout features of DoffyAI is its intuitive and user-friendly interface. Designed with the end user in mind, DoffyAI's interface is streamlined and easy to use, allowing users to get the most out of its powerful features with minimal effort. Whether you're a seasoned professional or a novice user, DoffyAI's interface makes it easy to harness the power of artificial intelligence and unlock your creative potential.
@@ -20,24 +22,12 @@ And the best part? DoffyAI is available to use for free! So whether you're a stu
 - Make more animations in the UI
 - Make linux and MACOSX versions
 ## [License](https://github.com/Caportabow/Doffy/blob/main/LICENSE.md)
+## Support:
+<a href="https://www.buymeacoffee.com/Caportabow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Credits:
-### [<b>Caportabow</b>](https://github.com/Caportabow)
-### Icons:
-- [Dev. icon - Flaticon](https://www.flaticon.com/free-icons/web-development)
-
-- [Github icon - Flaticon](https://www.flaticon.com/free-icons/github)
-
-- [Telegram icon - Flaticon](https://www.flaticon.com/free-icons/telegram)
-
-- [txt2img icon - Flaticon](https://www.flaticon.com/free-icons/picture)
-
-- [support icon - Flaticon](https://www.flaticon.com/free-icons/money)
-
-- [other icon - Flaticon](https://www.flaticon.com/free-icons/more)
-
-- [update icon - Flaticon](https://www.flaticon.com/free-icons/update)
-
-- [logo icons - Flaticon](https://www.flaticon.com/free-icons/flamingo)
+### [Main Developer](https://github.com/Caportabow)
+### [Icons - Flaticon](https://www.flaticon.com/)
 ### Scripts:
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter) by [@TomSchimansky](https://github.com/TomSchimansky)
 
