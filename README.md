@@ -16,9 +16,9 @@ And the best part? DoffyAI is available to use for free! So whether you're a stu
 ### ToDo List:
 - Add checking for updates every time the app is launched(✅ Completed in 0.75 | improved in 0.85)
 - Add txt2img AI's(✅ Completed in 0.85)
+- Make an option to type prompts with voice(✅ Completed in 1.5)
 - Integrate fast ChatGPT4 voice helper(like Jarvis from Iron Man movies)
 - Make an option to save generated pic
-- Make an option to type prompts with voice
 - Make more animations in the UI
 - Make linux and MACOSX versions
 ## [License](https://github.com/Caportabow/Doffy/blob/main/LICENSE.md)
