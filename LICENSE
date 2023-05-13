@@ -1,21 +1,8 @@
-MIT License
-
-Copyright (c) 2023 Daniil
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is hereby granted, free of charge, to any person obtaining a copy of the application, including without limitation the associated documentation and any related materials (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. You may distribute the application, provided that any such distribution must be accompanied by clear and prominent notice that the application is the work of Daniil Maistrenko ("Author"), and that the Author retains all rights, title, and interest in and to the Software, including all intellectual property rights.
+3. You may modify the application, provided that any modifications you make affect only the img folder and locales file in the scripts folder, and that such modifications are made within notice of the Author's direct authorship exactly as noted at the end of this document.
+4. You may not use the Author's name, likeness, or other identifying characteristics in any way that suggests endorsement of your modifications to the Software, without the Author's prior written permission.
+5. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the Author be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+6. This license and any disputes arising out of or related to it shall be governed by and construed in accordance with the laws of the jurisdiction in which the Author resides, without giving effect to any choice of law or conflict of law provisions. Any legal suit, action, or proceeding arising out of or related to this license or the Software shall be instituted exclusively in the federal or state courts located in the jurisdiction in which the Author resides.
+By using, copying, modifying, merging, publishing, distributing, sublicensing, or selling the Software, you agree to be bound by the terms of this license. If you do not agree to the terms of this license, do not use, copy, modify, merge, publish, distribute, sublicense, or sell the Software.
